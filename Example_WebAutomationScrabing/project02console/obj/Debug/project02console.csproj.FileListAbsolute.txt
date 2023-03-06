@@ -1,0 +1,12 @@
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\bin\Debug\project02console.exe.config
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\bin\Debug\project02console.exe
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\bin\Debug\project02console.pdb
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\bin\Debug\HtmlAgilityPack.dll
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\bin\Debug\HtmlAgilityPack.xml
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\obj\Debug\project02console.csproj.AssemblyReference.cache
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\obj\Debug\project02console.csproj.SuggestedBindingRedirects.cache
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\obj\Debug\project02console.csproj.CoreCompileInputs.cache
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\obj\Debug\project02console.csproj.CopyComplete
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\obj\Debug\project02console.exe
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project02console\obj\Debug\project02console.pdb

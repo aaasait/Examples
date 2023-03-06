@@ -1,0 +1,12 @@
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\bin\Debug\FormListe.exe.config
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\bin\Debug\FormListe.exe
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\bin\Debug\FormListe.pdb
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.Form1.resources
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.exe
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.pdb
+C:\Users\Z004PTKX\source\repos\FormListe\FormListe\obj\Debug\FormListe.Form2.resources

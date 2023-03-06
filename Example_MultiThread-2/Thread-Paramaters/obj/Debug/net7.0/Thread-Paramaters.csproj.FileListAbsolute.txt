@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\bin\Debug\net7.0\Thread-Paramaters.exe
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\bin\Debug\net7.0\Thread-Paramaters.deps.json
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\bin\Debug\net7.0\Thread-Paramaters.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\bin\Debug\net7.0\Thread-Paramaters.dll
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\bin\Debug\net7.0\Thread-Paramaters.pdb
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\Thread-Paramaters.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\Thread-Paramaters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\Thread-Paramaters.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\Thread-Paramaters.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\Thread-Paramaters.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\Thread-Paramaters.dll
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\refint\Thread-Paramaters.dll
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\Thread-Paramaters.pdb
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\Thread-Paramaters.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\MultiThread-2\Thread-Paramaters\obj\Debug\net7.0\ref\Thread-Paramaters.dll

@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\bin\Debug\net7.0\ThreadProject-Kendim.exe
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\bin\Debug\net7.0\ThreadProject-Kendim.deps.json
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\bin\Debug\net7.0\ThreadProject-Kendim.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\bin\Debug\net7.0\ThreadProject-Kendim.dll
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\bin\Debug\net7.0\ThreadProject-Kendim.pdb
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ThreadProject-Kendim.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ThreadProject-Kendim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ThreadProject-Kendim.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ThreadProject-Kendim.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ThreadProject-Kendim.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ThreadProject-Kendim.dll
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\refint\ThreadProject-Kendim.dll
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ThreadProject-Kendim.pdb
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ThreadProject-Kendim.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\MultiThread-2\ThreadProject-Kendim\obj\Debug\net7.0\ref\ThreadProject-Kendim.dll

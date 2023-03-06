@@ -1,0 +1,15 @@
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\bin\Debug\project01win.exe.config
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\bin\Debug\project01win.exe
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\bin\Debug\project01win.pdb
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\bin\Debug\HtmlAgilityPack.dll
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\bin\Debug\HtmlAgilityPack.xml
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.csproj.AssemblyReference.cache
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.csproj.SuggestedBindingRedirects.cache
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.Form1.resources
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.Properties.Resources.resources
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.csproj.GenerateResource.cache
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.csproj.CoreCompileInputs.cache
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.csproj.CopyComplete
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.exe
+C:\Users\cihan\Desktop\csharp-web-automation-labs\WebAutomationLabs\project01win\obj\Debug\project01win.pdb

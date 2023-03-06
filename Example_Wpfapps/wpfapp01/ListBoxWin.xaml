@@ -1,0 +1,28 @@
+﻿<Window x:Class="wpfapp01.ListBoxWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfapp01"
+        mc:Ignorable="d"
+        Title="ListBoxWin" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="lstB" Width="150" Height="150">
+            <ListBoxItem>
+                <StackPanel Height="25" Orientation="Horizontal">
+                    <Image Source="/help_button.jpg" 
+                           Stretch="Fill" Height="20" />
+                    <TextBlock Text="Birinci Nesne" />
+                </StackPanel>
+            </ListBoxItem>
+            <ListBoxItem>
+                <CheckBox Content="İkinci Nesne" />
+            </ListBoxItem>
+            <ListBoxItem>
+                <CheckBox Content="Üç" />
+            </ListBoxItem>
+            <Image Source="/help_button.jpg" 
+                           Stretch="Fill" Height="20" />
+        </ListBox>
+    </Grid>
+</Window>

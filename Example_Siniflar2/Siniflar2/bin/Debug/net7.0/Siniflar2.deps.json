@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Siniflar2/1.0.0": {
+        "runtime": {
+          "Siniflar2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Siniflar2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

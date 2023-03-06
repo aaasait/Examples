@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\bin\Debug\net7.0\StatikKulllanimi.exe
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\bin\Debug\net7.0\StatikKulllanimi.deps.json
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\bin\Debug\net7.0\StatikKulllanimi.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\bin\Debug\net7.0\StatikKulllanimi.dll
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\bin\Debug\net7.0\StatikKulllanimi.pdb
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\StatikKulllanimi.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\StatikKulllanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\StatikKulllanimi.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\StatikKulllanimi.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\StatikKulllanimi.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\StatikKulllanimi.dll
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\refint\StatikKulllanimi.dll
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\StatikKulllanimi.pdb
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\StatikKulllanimi.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\StatikKulllanimi\StatikKulllanimi\obj\Debug\net7.0\ref\StatikKulllanimi.dll

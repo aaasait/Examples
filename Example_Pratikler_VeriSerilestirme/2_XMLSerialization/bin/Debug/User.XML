@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<User xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UserId>2</UserId>
+  <FirstName>Cihan</FirstName>
+  <LastName>Özhan</LastName>
+  <UserName>CO</UserName>
+  <Email>cihan.ozhan@hotmail.com</Email>
+  <Password>1234</Password>
+</User>

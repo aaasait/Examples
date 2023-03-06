@@ -1,0 +1,12 @@
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\bin\Debug\project03console.exe.config
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\bin\Debug\project03console.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\bin\Debug\project03console.pdb
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\obj\Debug\project03console.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\obj\Debug\project03console.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\obj\Debug\project03console.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\obj\Debug\project03console.csproj.CopyComplete
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\obj\Debug\project03console.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\project03console\obj\Debug\project03console.pdb

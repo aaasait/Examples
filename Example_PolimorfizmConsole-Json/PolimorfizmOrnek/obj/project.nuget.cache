@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bpjDjHtaHhD+DiqZZGMvP91jvyfXp55TiY3SvyZG7aHue43f9PqpAnYi2GxHpYvv+tsbWV6hWqluQqFOYkbUQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004PTKX\\source\\repos\\PolimorfizmOrnek-Json\\PolimorfizmOrnek\\PolimorfizmOrnek.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

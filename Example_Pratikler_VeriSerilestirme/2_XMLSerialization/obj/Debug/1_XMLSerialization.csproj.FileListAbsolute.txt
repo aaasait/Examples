@@ -1,0 +1,6 @@
+C:\Users\IOLabs\Downloads\_Source\_Eğitimlerim\CSharpProgramming\CSharpProgrammingSolutions\1_XMLSerialization\bin\Debug\1_XMLSerialization.exe.config
+C:\Users\IOLabs\Downloads\_Source\_Eğitimlerim\CSharpProgramming\CSharpProgrammingSolutions\1_XMLSerialization\bin\Debug\1_XMLSerialization.exe
+C:\Users\IOLabs\Downloads\_Source\_Eğitimlerim\CSharpProgramming\CSharpProgrammingSolutions\1_XMLSerialization\bin\Debug\1_XMLSerialization.pdb
+C:\Users\IOLabs\Downloads\_Source\_Eğitimlerim\CSharpProgramming\CSharpProgrammingSolutions\1_XMLSerialization\obj\Debug\1_XMLSerialization.csprojResolveAssemblyReference.cache
+C:\Users\IOLabs\Downloads\_Source\_Eğitimlerim\CSharpProgramming\CSharpProgrammingSolutions\1_XMLSerialization\obj\Debug\1_XMLSerialization.exe
+C:\Users\IOLabs\Downloads\_Source\_Eğitimlerim\CSharpProgramming\CSharpProgrammingSolutions\1_XMLSerialization\obj\Debug\1_XMLSerialization.pdb

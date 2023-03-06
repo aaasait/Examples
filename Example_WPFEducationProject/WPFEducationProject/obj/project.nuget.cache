@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gj6tw+P/6/KfRZ5f83vKmj897Yb5PP2UZhAoSpMe1OtV2FKARvn09Kpbp104MUt9Jp9Xz6W6+FDyehPE5LRVhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004PTKX\\source\\repos\\WPFEducationProject\\WPFEducationProject\\WPFEducationProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

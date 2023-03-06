@@ -1,0 +1,14 @@
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\bin\Debug\Project01Win.exe.config
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\bin\Debug\Project01Win.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\bin\Debug\Project01Win.pdb
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.Form1.resources
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.csproj.CopyComplete
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationLab\Project01Win\obj\Debug\Project01Win.pdb

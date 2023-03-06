@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\bin\Debug\net7.0\StatikOrnek.exe
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\bin\Debug\net7.0\StatikOrnek.deps.json
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\bin\Debug\net7.0\StatikOrnek.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\bin\Debug\net7.0\StatikOrnek.dll
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\bin\Debug\net7.0\StatikOrnek.pdb
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\StatikOrnek.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\StatikOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\StatikOrnek.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\StatikOrnek.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\StatikOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\StatikOrnek.dll
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\refint\StatikOrnek.dll
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\StatikOrnek.pdb
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\StatikOrnek.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\StatikOrnek\StatikOrnek\obj\Debug\net7.0\ref\StatikOrnek.dll

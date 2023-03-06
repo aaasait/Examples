@@ -1,0 +1,17 @@
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\bin\Debug\SeleniumWin.exe.config
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\bin\Debug\SeleniumWin.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\bin\Debug\SeleniumWin.pdb
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\bin\Debug\WebDriver.Support.dll
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\bin\Debug\WebDriver.dll
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.Form1.resources
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.csproj.CopyComplete
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.exe
+C:\Users\Z004PTKX\source\repos\WebAutomationLabs-Hoca-ARGE\SeleniumWin\obj\Debug\SeleniumWin.pdb

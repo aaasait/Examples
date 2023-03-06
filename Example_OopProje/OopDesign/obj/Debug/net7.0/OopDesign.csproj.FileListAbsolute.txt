@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\OopDesign.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\OopDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\OopDesign.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\OopDesign.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\OopDesign.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\bin\Debug\net7.0\OopDesign.exe
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\bin\Debug\net7.0\OopDesign.deps.json
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\bin\Debug\net7.0\OopDesign.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\bin\Debug\net7.0\OopDesign.dll
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\bin\Debug\net7.0\OopDesign.pdb
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\OopDesign.dll
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\refint\OopDesign.dll
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\OopDesign.pdb
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\OopDesign.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\OopDesign\OopDesign\obj\Debug\net7.0\ref\OopDesign.dll

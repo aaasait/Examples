@@ -1,0 +1,13 @@
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\bin\Debug\SQLStoreProcedure.exe.config
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\bin\Debug\SQLStoreProcedure.exe
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\bin\Debug\SQLStoreProcedure.pdb
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.Form1.resources
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.Form2.resources
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.Form3.resources
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.exe
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\SQLStoreProcedure\obj\Debug\SQLStoreProcedure.pdb

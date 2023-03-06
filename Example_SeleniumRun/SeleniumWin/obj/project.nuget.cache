@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KON+zgisEKlhTQnCUBwSeSFJd0guRhojVLFf5UhL2MKA0RFKNw4EeZEokWMmisUpbr4B6oVrxCkOEEtM73TFlw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004PTKX\\source\\repos\\WebAutomationLabs-Hoca-ARGE\\SeleniumWin\\SeleniumWin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\selenium.support\\4.8.1\\selenium.support.4.8.1.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\selenium.webdriver\\4.8.1\\selenium.webdriver.4.8.1.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\selenium.webdriver.chromedriver\\110.0.5481.7700\\selenium.webdriver.chromedriver.110.0.5481.7700.nupkg.sha512"
+  ],
+  "logs": []
+}

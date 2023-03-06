@@ -1,0 +1,6 @@
+C:\projects\test-projects\test-projects-csharp-02\mathproject\MatchLibrary\bin\Debug\MatchLibrary.dll
+C:\projects\test-projects\test-projects-csharp-02\mathproject\MatchLibrary\bin\Debug\MatchLibrary.pdb
+C:\projects\test-projects\test-projects-csharp-02\mathproject\MatchLibrary\obj\Debug\MathLibrary.csproj.AssemblyReference.cache
+C:\projects\test-projects\test-projects-csharp-02\mathproject\MatchLibrary\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\projects\test-projects\test-projects-csharp-02\mathproject\MatchLibrary\obj\Debug\MatchLibrary.dll
+C:\projects\test-projects\test-projects-csharp-02\mathproject\MatchLibrary\obj\Debug\MatchLibrary.pdb

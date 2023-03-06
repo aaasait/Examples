@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>form</title>
+        <link href="stylesheet.css" type="text/css" rel="stylesheet"/>
+    </head>
+    <body>
+    
+
+            <form action="" method="get"  enctype="multipart/form-data">
+                
+         <table id="SignUpForm">
+            <tr>
+                        <td>Account Type:</td><br>
+                        <td>Indivudial<input type="radio" name="Indivudial" id="Indivudial" value="Indivudial" checked>
+                            Entity<input type="radio" name="Entity" id="Entity" value="Entity">
+                        </td>
+           </tr>
+           
+            <tr>
+                <td>First Name:</td>
+                <td colspan="1"><input type="text" name="FirstName" id="FirstName" required></td>
+            </tr>
+            
+            <tr>
+                <td>MiddleName or Initial</td>
+                <td colspan="1"><input type="text" name="MiddleName" id="MiddleName" required></td>
+            </tr>
+            
+            <tr>
+                <td>Last Name:</td>
+                <td colspan="1"><input type="text" name="LastName" id="LastName" required></td>
+            </tr>
+
+            <tr>
+                <td>Suffix:</td>
+                <td colspan="1"><select name="Suffix" id="Suffix">
+                    <option value="Suffix1">Suffix1</option>
+                    <option value="Suffix2">Suffix2</option>
+                   
+                  </select></td>
+            </tr>
+
+            <tr>
+                <td>Taz Payer Identify Number:</td>
+                <td colspan="1"><input type="text" name="taxNumber1" id="taxNumber1"> - <input type="text" name="taxNumber2" id="taxNumber2"> - <input type="text" name="taxNumber3" id="taxNumber3"></td>
+            </tr>
+
+            <tr>
+                <td>Day of Birth:</td>
+                <td colspan="1"><input type="text" name="Month" id="Month"> - <input type="text" name="Day" id="Day"> - <input type="text" name="Year" id="Year">(MM-DD-YYYY)</td>
+            </tr>
+
+            <tr>
+                <td>Street Address:</td>
+                <td colspan="1"><input type="text" name="Address1" id="Address1"><br>
+                    <input type="text" name="Address2" id="Address2"><br>
+                    <input type="text" name="Address3" id="Address3"></td>
+            </tr>
+
+
+            <tr>
+                <td>City:</td>
+                <td colspan="1"><input type="text" name="City" id="City" required></td>
+            </tr>
+
+            <tr>
+                <td>State:</td>
+                <td colspan="1"><select name="State" id="State">
+                    <option value="State1">State1</option>
+                    <option value="State2">State2</option>
+                   
+                  </select></td>
+            </tr>
+
+            <tr>
+                <td>Zip Code:</td>
+                <td colspan="1"><input type="text" name="ZipCode1" id="ZipCode1"> - <input type="text" name="ZipCode2" id="ZipCode2">(Plus Four - Optional)</td>
+            </tr>
+
+            <tr>
+                <td>Home Phone:</td>
+                <td colspan="1">(<input type="text" name="HomePhone1" id="HomePhone1">) - <input type="text" name="HomePhone2" id="HomePhone2"> - <input type="text" name="HomePhone3" id="HomePhone3">(MM-DD-YYYY)</td>
+            </tr>
+
+            <tr>
+                <td>Driver's License / State ID Number:</td>
+                <td colspan="1"><input type="text" name="City" id="City" required></td>
+            </tr>
+
+
+            <tr>
+                <td>Issuing State:</td>
+                <td colspan="1"><select name="IssuingState" id="IssuingState">
+                    <option value="IssuingState1">IssuingState1</option>
+                    <option value="IssuingState2">IssuingState2</option>
+                   
+                  </select></td>
+            </tr>
+
+
+            <tr>
+                <td>Expiration Date:</td>
+                <td colspan="1"><input type="text" name="Month" id="Month"> - <input type="text" name="Day" id="Day"> - <input type="text" name="Year" id="Year">(MM-DD-YYYY)</td>
+            </tr>
+            
+             <tr class="buttonsLogin">
+            <td colspan="2" ><br>
+            <input type="submit" name="save" id="save" value="KAYDET">
+            <input type="reset" name="sil" id="sil" value="TEMİZLE">
+ 
+            </td>
+            </tr>
+       
+        </table>
+        </form>
+    </body>
+</html>

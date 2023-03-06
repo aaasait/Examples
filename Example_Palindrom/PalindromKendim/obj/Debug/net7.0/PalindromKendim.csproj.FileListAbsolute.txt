@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\bin\Debug\net7.0\PalindromKendim.exe
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\bin\Debug\net7.0\PalindromKendim.deps.json
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\bin\Debug\net7.0\PalindromKendim.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\bin\Debug\net7.0\PalindromKendim.dll
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\bin\Debug\net7.0\PalindromKendim.pdb
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\PalindromKendim.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\PalindromKendim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\PalindromKendim.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\PalindromKendim.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\PalindromKendim.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\PalindromKendim.dll
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\refint\PalindromKendim.dll
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\PalindromKendim.pdb
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\PalindromKendim.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\PalindromKendim\PalindromKendim\obj\Debug\net7.0\ref\PalindromKendim.dll

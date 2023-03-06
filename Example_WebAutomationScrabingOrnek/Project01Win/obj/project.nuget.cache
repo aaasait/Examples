@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OOuKi45Zt6bZBNOE5MfMw2cUAjMvR/ZE6a7yKvbUx2sC/L3VKsCkkDFaIUAqt+61vBYQNx8LfxdiaBXHh43+sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004PTKX\\source\\repos\\WebAutomationLab\\Project01Win\\Project01Win.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

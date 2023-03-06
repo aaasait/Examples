@@ -1,0 +1,11 @@
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\bin\Debug\ADONETProjectSQL.exe.config
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\bin\Debug\ADONETProjectSQL.exe
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\bin\Debug\ADONETProjectSQL.pdb
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\obj\Debug\ADONETProjectSQL.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\obj\Debug\ADONETProjectSQL.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\obj\Debug\ADONETProjectSQL.Form1.resources
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\obj\Debug\ADONETProjectSQL.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\obj\Debug\ADONETProjectSQL.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\obj\Debug\ADONETProjectSQL.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\obj\Debug\ADONETProjectSQL.exe
+C:\Users\Z004PTKX\source\repos\ADONETProjectSQL\ADONETProjectSQL\obj\Debug\ADONETProjectSQL.pdb

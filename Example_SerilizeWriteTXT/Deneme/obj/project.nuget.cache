@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+vNZ2KtLPIzm8uOTurgZvx7VHphkwBpF9IqidoJwq9UOEzds1d90bk3G9+M4c2FavDT531SArXHJvcoq467kDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Z004PTKX\\source\\repos\\Deneme\\Deneme\\Deneme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Z004PTKX\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

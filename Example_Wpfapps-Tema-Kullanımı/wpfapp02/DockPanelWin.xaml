@@ -1,0 +1,17 @@
+﻿<Window x:Class="wpfapp02.DockPanelWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfapp02"
+        mc:Ignorable="d"
+        Title="DockPanelWin" Height="450" Width="800">
+    <Grid>
+        <DockPanel>
+            <Button DockPanel.Dock="Left" Content="Btn 6" />
+            <Button DockPanel.Dock="Right" Content="Btn 6" />
+            <Button DockPanel.Dock="Top" Content="Btn 6" />
+            <Button DockPanel.Dock="Bottom" Content="Btn 6" VerticalAlignment="Bottom" />
+        </DockPanel>
+    </Grid>
+</Window>

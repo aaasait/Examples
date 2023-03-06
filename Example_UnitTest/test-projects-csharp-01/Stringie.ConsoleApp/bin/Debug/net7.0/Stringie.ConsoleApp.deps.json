@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Stringie.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "Stringie": "1.0.0"
+        },
+        "runtime": {
+          "Stringie.ConsoleApp.dll": {}
+        }
+      },
+      "Stringie/1.0.0": {
+        "runtime": {
+          "Stringie.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stringie.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Stringie/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

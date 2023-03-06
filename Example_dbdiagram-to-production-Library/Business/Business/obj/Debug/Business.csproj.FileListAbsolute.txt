@@ -1,0 +1,12 @@
+C:\Users\cihan\Desktop\dbdiagram-to-production\Business\Business\bin\Debug\Business.dll
+C:\Users\cihan\Desktop\dbdiagram-to-production\Business\Business\bin\Debug\Business.pdb
+C:\Users\cihan\Desktop\dbdiagram-to-production\Business\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\cihan\Desktop\dbdiagram-to-production\Business\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\cihan\Desktop\dbdiagram-to-production\Business\Business\obj\Debug\Business.dll
+C:\Users\cihan\Desktop\dbdiagram-to-production\Business\Business\obj\Debug\Business.pdb
+C:\Users\Z004PTKX\source\repos\dbdiagram-to-production-Library\Business\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\dbdiagram-to-production-Library\Business\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\dbdiagram-to-production-Library\Business\Business\obj\Debug\Business.dll
+C:\Users\Z004PTKX\source\repos\dbdiagram-to-production-Library\Business\Business\obj\Debug\Business.pdb
+C:\Users\Z004PTKX\source\repos\dbdiagram-to-production-Library\Business\Business\bin\Debug\Business.dll
+C:\Users\Z004PTKX\source\repos\dbdiagram-to-production-Library\Business\Business\bin\Debug\Business.pdb

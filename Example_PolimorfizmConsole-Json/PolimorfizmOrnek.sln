@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolimorfizmOrnek", "PolimorfizmOrnek\PolimorfizmOrnek.csproj", "{CB9F186F-8FA2-47D6-9DE5-71FD0F7158FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB9F186F-8FA2-47D6-9DE5-71FD0F7158FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB9F186F-8FA2-47D6-9DE5-71FD0F7158FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB9F186F-8FA2-47D6-9DE5-71FD0F7158FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB9F186F-8FA2-47D6-9DE5-71FD0F7158FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19DB745B-84C8-410B-98C4-25FE3BD6E808}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\Siniflar6.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\Siniflar6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\Siniflar6.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\Siniflar6.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\Siniflar6.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\bin\Debug\net7.0\Siniflar6.exe
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\bin\Debug\net7.0\Siniflar6.deps.json
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\bin\Debug\net7.0\Siniflar6.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\bin\Debug\net7.0\Siniflar6.dll
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\bin\Debug\net7.0\Siniflar6.pdb
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\Siniflar6.dll
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\refint\Siniflar6.dll
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\Siniflar6.pdb
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\Siniflar6.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\Siniflar6\Siniflar6\obj\Debug\net7.0\ref\Siniflar6.dll

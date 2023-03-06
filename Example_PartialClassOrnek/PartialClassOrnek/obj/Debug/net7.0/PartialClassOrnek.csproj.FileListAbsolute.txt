@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\PartialClassOrnek.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\PartialClassOrnek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\PartialClassOrnek.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\PartialClassOrnek.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\PartialClassOrnek.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\bin\Debug\net7.0\PartialClassOrnek.exe
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\bin\Debug\net7.0\PartialClassOrnek.deps.json
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\bin\Debug\net7.0\PartialClassOrnek.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\bin\Debug\net7.0\PartialClassOrnek.dll
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\bin\Debug\net7.0\PartialClassOrnek.pdb
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\PartialClassOrnek.dll
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\refint\PartialClassOrnek.dll
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\PartialClassOrnek.pdb
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\PartialClassOrnek.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\PartialClassOrnek\PartialClassOrnek\obj\Debug\net7.0\ref\PartialClassOrnek.dll

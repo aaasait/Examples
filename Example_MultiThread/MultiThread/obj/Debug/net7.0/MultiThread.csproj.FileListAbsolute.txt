@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\bin\Debug\net7.0\MultiThread.exe
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\bin\Debug\net7.0\MultiThread.deps.json
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\bin\Debug\net7.0\MultiThread.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\bin\Debug\net7.0\MultiThread.dll
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\bin\Debug\net7.0\MultiThread.pdb
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\MultiThread.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\MultiThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\MultiThread.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\MultiThread.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\MultiThread.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\MultiThread.dll
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\refint\MultiThread.dll
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\MultiThread.pdb
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\MultiThread.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\MultiThread\MultiThread\obj\Debug\net7.0\ref\MultiThread.dll

@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>form</title>
+        <link href="stylesheet.css" type="text/css" rel="stylesheet"/>
+    </head>
+    <body>
+    
+            <form action="" method="get"  enctype="multipart/form-data">
+                
+                <table border="2" id="SignUpForm">
+            <tr>
+                       
+                        <td colspan="2"><h4 class="SignUp"> KAYIT OL</h4></td>
+            </tr> 
+            <tr>
+                <td>Ad</td>
+                <td colspan="1"><input type="text" name="name" id="name" required></td>
+            </tr>
+            
+            <tr>
+                <td>Soyad</td>
+                <td colspan="1"><input type="text" name="surname" id="surname" required></td>
+            </tr>
+            
+            <tr>
+                <td>Yaş</td>
+                <td><input type="number" name="age" id="age" min="0" max="120" placeholder="Yaşınızı girin"></td>
+            </tr>
+            
+            <tr>
+              <td>E-Mail</td>
+              <td><input type="email" name="email" id="email" maxlength="70"></td>
+          </tr>
+            
+            <tr>
+                <td>Şifre</td>
+                <td><input type="password" name="password" id="password" maxlength="50"></td>
+            </tr>
+            
+            <tr>
+                <td>Cinsiyet</td>
+                <td>Kadın<input type="radio" name="genderMan" id="genderMan" value="genderMan" checked>
+                Erkek<input type="radio" name="genderWomen" id="genderWomen" value="genderWomen"></td>
+            </tr>
+            
+            <tr>
+                <td>Yabancı Diller</td>
+                <td>İngilizce<input type ="checkbox" name="dil" id="dil" checked value="ingilizce">
+                    Almanca<input type="checkbox" name="dil1" id="dil1" value="fransızca">                
+                 </td>
+                
+             
+            </tr>
+            
+             <tr class="buttonsLogin">
+            <td colspan="2" >
+            <input type="submit" name="save" id="save" value="KAYDET">
+            <input type="reset" name="sil" id="sil" value="TEMİZLE">
+ 
+            </td>
+            </tr>
+       
+        </table>
+        </form>
+    </body>
+</html>

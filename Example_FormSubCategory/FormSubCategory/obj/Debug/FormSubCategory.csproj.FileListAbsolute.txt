@@ -1,0 +1,11 @@
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\bin\Debug\FormSubCategory.exe.config
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\bin\Debug\FormSubCategory.exe
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\bin\Debug\FormSubCategory.pdb
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\obj\Debug\FormSubCategory.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\obj\Debug\FormSubCategory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\obj\Debug\FormSubCategory.Form1.resources
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\obj\Debug\FormSubCategory.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\obj\Debug\FormSubCategory.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\obj\Debug\FormSubCategory.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\obj\Debug\FormSubCategory.exe
+C:\Users\Z004PTKX\source\repos\FormSubCategory\FormSubCategory\obj\Debug\FormSubCategory.pdb

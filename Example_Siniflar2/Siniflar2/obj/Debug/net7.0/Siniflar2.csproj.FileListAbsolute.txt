@@ -1,0 +1,15 @@
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\Siniflar2.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\Siniflar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\Siniflar2.AssemblyInfoInputs.cache
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\Siniflar2.AssemblyInfo.cs
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\Siniflar2.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\bin\Debug\net7.0\Siniflar2.exe
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\bin\Debug\net7.0\Siniflar2.deps.json
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\bin\Debug\net7.0\Siniflar2.runtimeconfig.json
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\bin\Debug\net7.0\Siniflar2.dll
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\bin\Debug\net7.0\Siniflar2.pdb
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\Siniflar2.dll
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\refint\Siniflar2.dll
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\Siniflar2.pdb
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\Siniflar2.genruntimeconfig.cache
+C:\Users\Z004PTKX\source\repos\Siniflar2\Siniflar2\obj\Debug\net7.0\ref\Siniflar2.dll

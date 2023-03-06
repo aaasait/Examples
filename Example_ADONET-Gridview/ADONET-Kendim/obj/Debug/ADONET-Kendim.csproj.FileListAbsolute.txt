@@ -1,0 +1,11 @@
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\bin\Debug\ADONET-Kendim.exe.config
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\bin\Debug\ADONET-Kendim.exe
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\bin\Debug\ADONET-Kendim.pdb
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\obj\Debug\ADONET-Kendim.csproj.AssemblyReference.cache
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\obj\Debug\ADONET-Kendim.csproj.SuggestedBindingRedirects.cache
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\obj\Debug\ADONET_Kendim.Form1.resources
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\obj\Debug\ADONET_Kendim.Properties.Resources.resources
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\obj\Debug\ADONET-Kendim.csproj.GenerateResource.cache
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\obj\Debug\ADONET-Kendim.csproj.CoreCompileInputs.cache
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\obj\Debug\ADONET-Kendim.exe
+C:\Users\Z004PTKX\source\repos\ADONET-Kendim\ADONET-Kendim\obj\Debug\ADONET-Kendim.pdb

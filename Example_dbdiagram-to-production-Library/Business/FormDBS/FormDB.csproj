@@ -1,0 +1,65 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Business">
+      <HintPath>..\Business\bin\Debug\Business.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="FormAddressUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBasket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormBasketItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormMainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormOrderItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPhone.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProductCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProductDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProductInventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormProvider.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormUserCreditCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+C:\projects\test-projects\test-projects-csharp-01\Stringie\bin\Debug\Stringie.dll
+C:\projects\test-projects\test-projects-csharp-01\Stringie\bin\Debug\Stringie.pdb
+C:\projects\test-projects\test-projects-csharp-01\Stringie\obj\Debug\Stringie.csproj.AssemblyReference.cache
+C:\projects\test-projects\test-projects-csharp-01\Stringie\obj\Debug\Stringie.csproj.CoreCompileInputs.cache
+C:\projects\test-projects\test-projects-csharp-01\Stringie\obj\Debug\Stringie.dll
+C:\projects\test-projects\test-projects-csharp-01\Stringie\obj\Debug\Stringie.pdb

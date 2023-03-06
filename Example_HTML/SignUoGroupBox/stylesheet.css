@@ -1,0 +1,18 @@
+
+
+form {
+  display:flex;
+  justify-content: left;
+  margin-top: 1em;
+}
+
+
+tr.buttonsLogin {
+  text-align: center;
+  margin-left: 2em;
+}
+
+fieldset {
+  width: 30em;
+  height: 5em;
+}

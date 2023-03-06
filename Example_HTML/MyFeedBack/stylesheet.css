@@ -1,0 +1,19 @@
+
+
+
+h1 {
+text-align: left;
+}
+
+ul {
+  
+  justify-content: left;
+  
+}
+
+#submit {
+  height: 2em;
+  width: 5em;
+  border-radius: 1ex;
+  
+}
